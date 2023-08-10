@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+*{
+	border:border-box;
+}
+.welcom{
+	background:green;
+	color:red;
+	border:2px solid yellow;
+}
+
